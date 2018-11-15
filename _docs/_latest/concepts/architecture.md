@@ -24,7 +24,7 @@ security risks.
  * Enforcer uses Google Cloud APIs to change resource policy state to match the
    state you define.
  * Notifier keeps you up to date about Forseti findings and actions.
- * Explain helps you understand, test, and develop Cloud Identity and Access
+ * Explain helps you understand, test and develop Cloud Identity and Access
    Management (Cloud IAM) policies.
 
 ---
